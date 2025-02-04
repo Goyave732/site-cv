@@ -12,6 +12,6 @@ Je suis Loïck, j'ai 26 ans et je suis passionné par l'informatique, depuis tou
 
 Depuis décembre 2024, et après un parcours professionnel assez aléatoire, je suis une formation diplômante de technicien d'assistance informatique. Par la suite, je compte poursuivre mon cursus avec les formations de Techniciens Supérieur Système & Réseaux et pourquoi pas celui d'Administrateur Infrastructure Sécurisée.</p>
 
-<p> Pour en savoir plus sur mon parcours c'est </p> [ici](https://goyave732.github.io/site-cv/parcours.html) 
+<p> Pour en savoir plus sur mon parcours : </p> [Parcours](https://goyave732.github.io/site-cv/parcours.html) 
 
-<p>Si vous voulez en apprendre plus sur mes compétences c'est juste </p> [la](https://goyave732.github.io/site-cv/competences.html) 
+<p>Si vous voulez en apprendre plus sur mes compétences </p> [la](https://goyave732.github.io/site-cv/competences.html) 
